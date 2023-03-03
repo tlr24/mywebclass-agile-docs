@@ -1,0 +1,1 @@
+Implement Google Analytics in a GDPR-compliant way
