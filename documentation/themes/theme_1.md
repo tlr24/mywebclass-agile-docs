@@ -1,6 +1,5 @@
 # Theme: GDPR Compliance
 
-
 The theme of GDPR compliance represents the overall goal of ensuring that the website is in compliance with GDPR regulations. This theme encompasses all the work required to make sure that the website is collecting and processing personal data in a way that respects user privacy and is in line with GDPR requirements.
 
 ## Initiative: GDPR-Compliant Google Analytics Setup
@@ -32,3 +31,7 @@ The theme of GDPR compliance represents the overall goal of ensuring that the we
   - Task 4.1: Add a Privacy Policy Page
     - Automated Test Case 4.1.1: Verify that the Privacy Policy page is accessible from the website.
     - Manual Test Case 4.1.2: Verify that the Privacy Policy page explains how you collect and use user data, and how users can exercise their rights under the GDPR.
+
+## DEVELOPMENT NOTES
+
+- Should probably add a testing plan even if its something that you don't know how to implement since we are gonna be working on it.
